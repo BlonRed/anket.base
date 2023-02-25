@@ -1,0 +1,6 @@
+First name: Alex
+Last name: Smith
+Country: USA
+Year of birth: 15.05.1997
+Age: 25
+Number: 555-1234
